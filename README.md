@@ -7,8 +7,7 @@ Quick Start:
     Python 2.6, 2.7 or 3.x (including development packages), argparse, liberasurecode, gf-complete and Jerasure.
 
 
-  As mentioned above, PyECLib depends on the installation of the liberasurecde library (liberasurecode
-  can be found at https://bitbucket.org/tsg-/liberasurecode)
+ PyECLib depends on the installation of the liberasurecde library. 
 
 
   Install PyECLib::
